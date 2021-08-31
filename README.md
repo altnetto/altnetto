@@ -1,13 +1,10 @@
 ### Hi there, my name is Altieres 👋
 
-- 🔭 I’m currently working as a Full Stack Software Engineer,
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working as a Full Stack Software Engineer
+- 💖 I deeply love to learn
+- 🌱 I’m currently learning Data Science and Data Engineering
+- 💬 Ask me about Science, Literature and History
+- ⚡ Fun fact: I really love to learn any kind of language, since natural languages (e.g German) to computational languages (e.g Python)
 
  <div>
   <a href="https://github.com/altnetto">
@@ -22,6 +19,7 @@
   <img align="center" alt="Alt-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Alt-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Alt-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Alt-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plsql/plsql-original.svg">
 </div>
   
   ##
